@@ -10,7 +10,7 @@
 
 5- Instalar las librerías y frameworks necesarios con: `pip install -r dependencies.txt`
 
-6- Ejecutar el script de python con: `python easyOCR_equipo4.py`
+6- Ejecutar el script de python con: `python easyOCR_equipo4.py flask`
 
 7- Usando POSTMAN (API CLIENT), ingresar la url en método POST: http://localhost:5000/archs
 ![image](https://github.com/AnaPolar/EasyOCR-en-Python/assets/129553512/dd0bea4d-135b-4a79-9d1f-e4216abba38b)
