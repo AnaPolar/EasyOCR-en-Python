@@ -25,7 +25,6 @@ A continuación, se muestra una lista de las librerías empleadas en el código 
 - EasyOCR versión 1.7.1
 - PyMuPDF 1.24.2
 - Pillow 10.3.0
-- Matplotlib 3.8.4
 
 ## Participantes
 
