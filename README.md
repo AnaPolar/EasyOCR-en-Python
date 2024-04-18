@@ -47,6 +47,9 @@ A continuación, se muestra una lista de las librerías empleadas en el código 
 > https://pypi.org/project/pillow/
 > $pip3 install pillow
 
+## Pseudocódigo
+![OCR_Pseudocódigo](https://github.com/AnaPolar/EasyOCR-en-Python/assets/112904164/10a224e0-d33b-4c6e-b494-46ae24ef9e7f)
+
 ## Participantes
 
 - Alejandro Harael Garcia Sanchez
