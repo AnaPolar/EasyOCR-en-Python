@@ -3,3 +3,4 @@ opencv-python==4.5.3.56
 easyocr==1.4
 PyMuPDF==1.18.16
 Pillow==9.0.1
+spacy==3.1.1
